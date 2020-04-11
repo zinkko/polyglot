@@ -14,6 +14,19 @@ Simple search tool with regexes. Prints all lines where the pattern is found.
 - ignore case flag
 - search multiple files
 
+#### Regex features
+
+- Concatenation
+- Parentheses for grouping
+- R|S for R *or* S
+- R\* for 0 or more repetitions of R
+- R? either R or empty
+- R+ 1 or more repetitions, sugar for RR\*
+- . for *any* character
+- brackets for class of characters. For example, [abc] will match a *or* b *or* c
+- Line beginning (^) and line end ($). Otherwise patterns may occur anywhere
+- Escape character \
+
 ## The languages
 
 ### Done
