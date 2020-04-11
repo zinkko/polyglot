@@ -20,6 +20,8 @@ Simple search tool with regexes. Prints all lines where the pattern is found.
 
 ### In Progress
 
+- Python
+
 ### Upcoming
 
 - C
@@ -33,7 +35,6 @@ Simple search tool with regexes. Prints all lines where the pattern is found.
 - Java
 - JavaScript (Node.js)
 - Nim
-- Python
 - Ruby
 - Rust
 - Scala
